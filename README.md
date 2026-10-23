@@ -48,8 +48,8 @@ Modelo :  It's three o'clock.
 
 > **Nota histórica:** a primeira fase treinava um "especialista em alfabetos"
 > (ler um JSON de A–Z). Esse dataset e os modelos foram **removidos**; o foco
-> passou a ser conversa. `train.py`, `chat.py`, `infer.py`, `export_gguf.py`,
-> `marco.md` e `GUIA.md` ficam como registro daquela fase.
+> passou a ser conversa. `train.py`, `chat.py`, `infer.py`, `export_gguf.py` e
+> `GUIA.md` ficam como registro daquela fase.
 
 ## 2. Ficha técnica
 
@@ -219,7 +219,7 @@ loop   = forward → argmax (temperature=0) → anexa → para em <eos>
 ├── README.md                   <- este arquivo
 ├── config.json                 <- defaults de modelo + chat (+ slm)
 ├── Compress.md                 <- especificação do CCT
-├── marco.md / GUIA.md          <- histórico da fase alfabeto
+├── GUIA.md                     <- histórico da fase alfabeto
 │
 ├── input/
 │   └── chat_en.jsonl           <- DATASET (fonte de verdade)
@@ -388,8 +388,7 @@ Outras limitações:
 |---|---|
 | [`cct/README.md`](cct/README.md) | descrição completa do CCT (arquitetura, codecs, baselines, geração, ECD, conformidade, INT4) |
 | [`Compress.md`](Compress.md) | especificação original do CCT (30 seções) |
-| [`Projeto.md`](Projeto.md) | revisão crítica do README e diretrizes priorizadas (baselines, ECD, INT4, memory-bound) |
-| [`marco.md`](marco.md) | diário de experimentos (histórico + atualizações do CCT) |
+| [`Projeto.md`](Projeto.md) | escopo do CCT: compressor, pipeline de utilização e framework |
 | [`GUIA.md`](GUIA.md) | guia da fase alfabeto (histórico) |
 
 ---

@@ -21,6 +21,9 @@ cct/cct/native/*.so
 cct/cct/native/*.dylib
 cct/cct/native/*.o
 
+# Diario local de experimentos (nao versionado)
+marco.md
+
 # SO
 .DS_Store
 Thumbs.db

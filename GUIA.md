@@ -181,6 +181,6 @@ A: X, R, K, W, L, S, N, O, U
 | Resposta lixo (`U`, letra solta) | alfabeto fora do treino. Use `/alfabetos` + `/usar N`, ou o checkpoint full para A-Z. |
 | `Caractere fora do vocabulario` no `--eval` antigo | versão antiga avaliava tarefa não treinada. Atualizado: o eval filtra por `tasks` do checkpoint. |
 | `ONNX nao encontrado` com `--backend onnx` | reexporte (seção 5) ou rode sem `--backend onnx`. |
-| `next/prev` erra em alfabeto novo | esperado: especialista **memoriza**, generalização de indução é item em aberto (ver `marco.md`). |
+| `next/prev` erra em alfabeto novo | esperado: especialista **memoriza**, generalização de indução é item em aberto. |
 
-Detalhes de arquitetura, experimentos e resultados por categoria: `marco.md` e `Projeto.md`.
+Detalhes de arquitetura e resultados por categoria: `Projeto.md`.

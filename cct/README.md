@@ -570,6 +570,7 @@ o que não decide.
 <div align="center">
 
 Documentação relacionada: [`Compress.md`](../Compress.md) (especificação) ·
-[`README.md`](../README.md) (projeto) · [`marco.md`](../marco.md) (histórico)
+[`Projeto.md`](../Projeto.md) (escopo, pipeline e framework) ·
+[`README.md`](../README.md) (projeto)
 
 </div>
