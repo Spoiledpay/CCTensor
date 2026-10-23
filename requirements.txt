@@ -1,0 +1,5 @@
+torch>=2.2
+
+# Opcional, apenas para exportacao/quantizacao para NPU:
+# onnx>=1.15
+# onnxruntime>=1.17

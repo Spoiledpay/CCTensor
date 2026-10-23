@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Artefatos gerados (modelos, logs, exports)
+modelos/
+logs/
+*.pt
+*.onnx
+*.gguf
+*.cct
+
+# Modelfiles sao gerados pelo export_gguf.py e contem caminhos absolutos
+ollama/Modelfile.*
+
+# Build nativo (gerado por `python -c "import cct.native as n; n.build()"`)
+cct/cct/native/*.dll
+cct/cct/native/*.so
+cct/cct/native/*.dylib
+cct/cct/native/*.o
+
+# SO
+.DS_Store
+Thumbs.db

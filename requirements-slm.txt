@@ -1,0 +1,10 @@
+# Dependencias do caminho SLM HF -> GGUF -> Ollama.
+# Uso: .\.venv\Scripts\python.exe -m pip install -r requirements-slm.txt
+transformers>=4.40
+peft>=0.10
+accelerate>=0.30
+datasets>=2.19
+gguf>=0.10
+numpy>=1.26
+# trl (opcional, p/ SFTTrainer):
+# trl>=0.9

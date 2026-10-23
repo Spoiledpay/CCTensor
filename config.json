@@ -1,0 +1,50 @@
+{
+  "model": {
+    "block_size": 192,
+    "n_embd": 288,
+    "n_head": 8,
+    "n_layer": 6,
+    "dropout": 0.0,
+    "tie_embeddings": true,
+    "pos_encoding": "learned",
+    "copy_head": false,
+    "normalize_embeddings": false
+  },
+  "chat": {
+    "dataset": "input/chat_en.jsonl",
+    "out": "modelos/chat_en.pt",
+    "epochs": 10,
+    "batch_size": 64,
+    "block_size": 192,
+    "n_embd": 288,
+    "n_head": 8,
+    "n_layer": 6,
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "answer_weight": 20.0,
+    "stop_weight": 1.0,
+    "prompt_weight": 0.0,
+    "n_per_entry": 20,
+    "val_frac": 0.12,
+    "seed": 1337,
+    "num_threads": 8,
+    "eval_probe": 2
+  },
+  "slm": {
+    "base": "Qwen/Qwen2.5-0.5B-Instruct",
+    "datasets": ["input/chat_en.jsonl"],
+    "seed": 1337,
+    "val_frac": 0.05,
+    "train_out": "slm_data/train.jsonl",
+    "val_out": "slm_data/val.jsonl",
+    "epochs": 2,
+    "lr": 0.0002,
+    "batch_size": 4,
+    "lora_r": 16,
+    "finetuned_dir": "modelos/slm-qwen",
+    "gguf_out": "modelos/slm.gguf",
+    "temperature": 0.0,
+    "system": "You are a friendly assistant for everyday English conversation. Reply briefly and naturally.",
+    "ollama_name": "chat-en-slm"
+  }
+}

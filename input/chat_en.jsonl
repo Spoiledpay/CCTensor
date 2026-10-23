@@ -1,0 +1,206 @@
+{"id":"greet_01","topic":"greetings","turns":[{"user":["Hi!","Hello!","Hey!"],"assistant":["Hi! How are you?","Hello! Nice to see you.","Hey! How's it going?"]}]}
+{"id":"greet_02","topic":"greetings","turns":[{"user":["Good morning!","Morning!"],"assistant":["Good morning! Did you sleep well?","Good morning! How are you today?"]}]}
+{"id":"greet_03","topic":"greetings","turns":[{"user":["Good afternoon!","Good evening!"],"assistant":["Good afternoon! How can I help?","Good evening! How was your day?"]}]}
+{"id":"greet_04","topic":"greetings","turns":[{"user":["Hi, how are you?","Hello, how are you doing?"],"assistant":["I'm doing well, thanks. How about you?","Pretty good, thanks! And you?"]}]}
+{"id":"greet_05","topic":"greetings","turns":[{"user":["Long time no see!","I haven't seen you in a while."],"assistant":["It's been a while! How have you been?","So good to see you again! How are things?"]}]}
+{"id":"bye_01","topic":"farewells","turns":[{"user":["Bye!","Goodbye!","See you!"],"assistant":["Bye! Take care.","See you later! Have a good day.","Goodbye! Talk to you soon."]}]}
+{"id":"bye_02","topic":"farewells","turns":[{"user":["Good night!","Good night, sleep well."],"assistant":["Good night! Sleep well.","Good night! See you tomorrow."]}]}
+{"id":"bye_03","topic":"farewells","turns":[{"user":["I have to go now.","I need to leave."],"assistant":["No problem. See you later!","Alright, take care! Bye."]}]}
+{"id":"bye_04","topic":"farewells","turns":[{"user":["Have a nice day!","Have a good weekend!"],"assistant":["Thanks, you too!","Thank you! You as well."]}]}
+{"id":"intro_01","topic":"introductions","turns":[{"user":["What's your name?","May I ask your name?"],"assistant":["My name is Sam. Nice to meet you.","I'm Alex. Nice to meet you!"]}]}
+{"id":"intro_02","topic":"introductions","turns":[{"user":["My name is Anna.","I'm Anna."],"assistant":["Nice to meet you, Anna!","Nice to meet you, Anna. I'm Sam."]}]}
+{"id":"intro_03","topic":"introductions","turns":[{"user":["Where are you from?","Where do you come from?"],"assistant":["I'm from a small town near Boston.","I come from Canada. What about you?"]}]}
+{"id":"intro_04","topic":"introductions","turns":[{"user":["I'm from Brazil.","I come from Brazil."],"assistant":["That's great! I've heard good things about Brazil.","Brazil sounds wonderful. How long have you been here?"]}]}
+{"id":"intro_05","topic":"introductions","turns":[{"user":["What do you do for a living?","What's your job?"],"assistant":["I work as a teacher.","I'm a software developer. What about you?"]}]}
+{"id":"intro_06","topic":"introductions","turns":[{"user":["I'm a student.","I work in a hotel."],"assistant":["That sounds interesting. How do you like it?","Nice! Do you enjoy it?"]}]}
+{"id":"small_01","topic":"smalltalk","turns":[{"user":["How are you?","How's it going?"],"assistant":["I'm doing well, thanks. And you?","Pretty good, thanks! How about you?"]},{"user":["I'm fine, thanks.","Good, thanks."],"assistant":["Glad to hear it.","That's great to hear."]}]}
+{"id":"small_02","topic":"smalltalk","turns":[{"user":["How was your day?","Did you have a good day?"],"assistant":["It was busy but good, thanks. How was yours?","Pretty quiet, thanks. How about yours?"]}]}
+{"id":"small_03","topic":"smalltalk","turns":[{"user":["What are you doing?","What are you up to?"],"assistant":["I'm just relaxing at home.","I'm reading a book. Nothing special."]}]}
+{"id":"small_04","topic":"smalltalk","turns":[{"user":["Any plans for the weekend?","What are you doing this weekend?"],"assistant":["I'm going to visit my family.","I might go hiking if the weather is nice."]}]}
+{"id":"small_05","topic":"smalltalk","turns":[{"user":["How was your weekend?","Did you have a nice weekend?"],"assistant":["It was great, thanks. I went to the park.","It was relaxing. I stayed home and cooked."]}]}
+{"id":"small_06","topic":"smalltalk","turns":[{"user":["It's a nice day, isn't it?","Nice weather today."],"assistant":["It really is. Perfect for a walk.","Yes, it's lovely out there today."]}]}
+{"id":"small_07","topic":"smalltalk","turns":[{"user":["What's new?","Anything new with you?"],"assistant":["Not much, just working. You?","Nothing special. How about you?"]}]}
+{"id":"small_08","topic":"smalltalk","turns":[{"user":["I'm a bit tired today.","I had a long day."],"assistant":["Sorry to hear that. Try to get some rest.","That sounds exhausting. Take it easy tonight."]}]}
+{"id":"thank_01","topic":"thanks","turns":[{"user":["Thank you!","Thanks!"],"assistant":["You're welcome!","No problem at all.","You're very welcome."]}]}
+{"id":"thank_02","topic":"thanks","turns":[{"user":["Thank you so much for your help.","Thanks a lot for helping me."],"assistant":["My pleasure! Glad I could help.","Happy to help. Let me know if you need anything else."]}]}
+{"id":"thank_03","topic":"thanks","turns":[{"user":["I really appreciate it.","That's very kind of you."],"assistant":["Of course! Anytime.","Don't mention it. I'm happy to help."]}]}
+{"id":"thank_04","topic":"thanks","turns":[{"user":["Thanks for waiting.","Sorry for the wait."],"assistant":["No worries at all.","That's fine, don't worry about it."]}]}
+{"id":"sorry_01","topic":"apologies","turns":[{"user":["I'm sorry.","Sorry about that."],"assistant":["It's okay, don't worry.","No problem at all."]}]}
+{"id":"sorry_02","topic":"apologies","turns":[{"user":["I'm sorry I'm late.","Sorry for being late."],"assistant":["It's fine, traffic happens.","No problem. Let's get started."]}]}
+{"id":"sorry_03","topic":"apologies","turns":[{"user":["I made a mistake.","I'm sorry, that was my fault."],"assistant":["Don't worry, we can fix it.","Thanks for telling me. It's not a big deal."]}]}
+{"id":"sorry_04","topic":"apologies","turns":[{"user":["Sorry, I didn't hear you.","Sorry, could you repeat that?"],"assistant":["Of course. I said we start at nine.","No problem. I said the meeting is at noon."]}]}
+{"id":"help_01","topic":"help","turns":[{"user":["Can you help me?","Could you give me a hand?"],"assistant":["Sure, what do you need?","Of course. What can I do for you?"]}]}
+{"id":"help_02","topic":"help","turns":[{"user":["I need some help with this.","I'm having trouble here."],"assistant":["Tell me what's happening and I'll try to help.","Let's take a look together."]}]}
+{"id":"help_03","topic":"help","turns":[{"user":["How do I open this?","How does this work?"],"assistant":["You need to press the button on the side.","Just turn it and pull gently."]}]}
+{"id":"help_04","topic":"help","turns":[{"user":["Can you show me how to do it?","Could you explain that again?"],"assistant":["Sure. First you click here, then you save.","Of course. Watch me do it once."]}]}
+{"id":"help_05","topic":"help","turns":[{"user":["I don't know what to do.","I'm not sure what to do next."],"assistant":["Let's go step by step. What have you tried?","That's okay. I can walk you through it."]}]}
+{"id":"clar_01","topic":"clarification","turns":[{"user":["What do you mean?","I don't understand."],"assistant":["Let me explain it another way.","Sorry, let me say that differently."]}]}
+{"id":"clar_02","topic":"clarification","turns":[{"user":["Can you repeat that, please?","Could you say that again?"],"assistant":["Of course. I said the train leaves at six.","Sure. The store closes at eight."]}]}
+{"id":"clar_03","topic":"clarification","turns":[{"user":["Can you speak more slowly, please?","Could you slow down a bit?"],"assistant":["Of course. Is this better?","Sure, no problem. Let me slow down."]}]}
+{"id":"clar_04","topic":"clarification","turns":[{"user":["Did you say fifteen or fifty?","Was that thirteen or thirty?"],"assistant":["I said fifteen.","Thirty. Three zero."]}]}
+{"id":"clar_05","topic":"clarification","turns":[{"user":["How do you spell that?","Can you spell it for me?"],"assistant":["Sure. It's A-L-E-X.","Of course. B-R-I-D-G-E."]}]}
+{"id":"time_01","topic":"time_date","turns":[{"user":["What time is it?","Do you have the time?"],"assistant":["It's three o'clock.","It's about half past four."]}]}
+{"id":"time_02","topic":"time_date","turns":[{"user":["What day is it today?","What's the date today?"],"assistant":["It's Monday.","Today is the fifth of June."]}]}
+{"id":"time_03","topic":"time_date","turns":[{"user":["When does it start?","What time does the movie start?"],"assistant":["It starts at seven.","The movie starts at eight thirty."]}]}
+{"id":"time_04","topic":"time_date","turns":[{"user":["How long does it take?","How much time do we need?"],"assistant":["About twenty minutes.","It takes around an hour."]}]}
+{"id":"time_05","topic":"time_date","turns":[{"user":["Are we late?","Is it too late?"],"assistant":["No, we're right on time.","We still have a few minutes."]}]}
+{"id":"time_06","topic":"time_date","turns":[{"user":["What time do you open?","When do you close?"],"assistant":["We open at nine in the morning.","We close at six in the evening."]}]}
+{"id":"weather_01","topic":"weather","turns":[{"user":["How's the weather today?","What's the weather like?"],"assistant":["It's sunny and warm.","It's cloudy with a chance of rain."]}]}
+{"id":"weather_02","topic":"weather","turns":[{"user":["Is it going to rain?","Will it rain today?"],"assistant":["Yes, it looks like rain this afternoon.","Probably not. It should stay dry."]}]}
+{"id":"weather_03","topic":"weather","turns":[{"user":["It's very cold today.","It's freezing outside."],"assistant":["It really is. Wear a warm coat.","Yes, bundle up out there."]}]}
+{"id":"weather_04","topic":"weather","turns":[{"user":["It's so hot today.","The heat is terrible."],"assistant":["I know. Drink plenty of water.","It's a scorcher. Stay in the shade."]}]}
+{"id":"weather_05","topic":"weather","turns":[{"user":["Should I bring an umbrella?","Do I need a jacket?"],"assistant":["Yes, take an umbrella just in case.","A light jacket would be a good idea."]}]}
+{"id":"weather_06","topic":"weather","turns":[{"user":["What's the forecast for tomorrow?","Will it be nice tomorrow?"],"assistant":["Tomorrow should be sunny and mild.","They say it will rain tomorrow morning."]}]}
+{"id":"dir_01","topic":"directions","turns":[{"user":["Where is the station?","How do I get to the station?"],"assistant":["Go straight and turn left at the corner.","It's two blocks ahead on your right."]}]}
+{"id":"dir_02","topic":"directions","turns":[{"user":["Is it far from here?","How far is the museum?"],"assistant":["It's about ten minutes on foot.","Not far. It's a short walk."]}]}
+{"id":"dir_03","topic":"directions","turns":[{"user":["Where is the nearest bank?","Is there a pharmacy near here?"],"assistant":["Yes, there's one on the next street.","There's a pharmacy just around the corner."]}]}
+{"id":"dir_04","topic":"directions","turns":[{"user":["I'm lost.","I can't find my hotel."],"assistant":["Don't worry. What's the name of the hotel?","No problem. Do you have the address?"]}]}
+{"id":"dir_05","topic":"directions","turns":[{"user":["Can you show me on the map?","Where am I on this map?"],"assistant":["You are right here, near the park.","This is us, and the station is here."]}]}
+{"id":"dir_06","topic":"directions","turns":[{"user":["Turn right or left?","Which way should I go?"],"assistant":["Turn right at the lights.","Go left after the bridge."]}]}
+{"id":"dir_07","topic":"directions","turns":[{"user":["Is this the way to the airport?","Does this bus go downtown?"],"assistant":["Yes, this bus goes downtown.","No, you need the number twelve bus."]}]}
+{"id":"transp_01","topic":"transport","turns":[{"user":["Where can I get a taxi?","How do I call a taxi?"],"assistant":["There's a taxi stand near the entrance.","You can use an app or wave one down."]}]}
+{"id":"transp_02","topic":"transport","turns":[{"user":["How much is a ticket?","What's the fare to the airport?"],"assistant":["A ticket costs three dollars.","The fare is about twenty dollars."]}]}
+{"id":"transp_03","topic":"transport","turns":[{"user":["Which platform is the train?","Where does the bus leave from?"],"assistant":["Platform four, on the left.","The bus leaves from stop seven."]}]}
+{"id":"transp_04","topic":"transport","turns":[{"user":["Is there a direct train?","Do I need to change trains?"],"assistant":["Yes, it's a direct train.","You need to change once at the main station."]}]}
+{"id":"transp_05","topic":"transport","turns":[{"user":["How often does the bus come?","When is the next train?"],"assistant":["Every ten minutes.","The next train is at four fifteen."]}]}
+{"id":"transp_06","topic":"transport","turns":[{"user":["Can I pay by card?","Do you take cash?"],"assistant":["Yes, you can pay by card.","Cash only, I'm afraid."]}]}
+{"id":"shop_01","topic":"shopping","turns":[{"user":["How much is this?","What does it cost?"],"assistant":["It's fifteen dollars.","That one is twenty-five dollars."]}]}
+{"id":"shop_02","topic":"shopping","turns":[{"user":["Do you have this in blue?","Do you have a larger size?"],"assistant":["Yes, we do. I'll get it for you.","Let me check in the back for you."]}]}
+{"id":"shop_03","topic":"shopping","turns":[{"user":["Can I try it on?","Where is the fitting room?"],"assistant":["Of course. The fitting rooms are over there.","Sure, it's right this way."]}]}
+{"id":"shop_04","topic":"shopping","turns":[{"user":["I'm just looking, thanks.","I'll think about it."],"assistant":["No problem. Take your time.","Of course. Let me know if you need anything."]}]}
+{"id":"shop_05","topic":"shopping","turns":[{"user":["Can I pay by card?","Do you accept credit cards?"],"assistant":["Yes, we accept all major cards.","Of course. You can tap here."]}]}
+{"id":"shop_06","topic":"shopping","turns":[{"user":["Can I have a receipt?","Could I get a bag?"],"assistant":["Here's your receipt.","Sure, here you go."]}]}
+{"id":"shop_07","topic":"shopping","turns":[{"user":["Is there a discount?","Is it on sale?"],"assistant":["Yes, it's twenty percent off today.","Not right now, but it often goes on sale."]}]}
+{"id":"shop_08","topic":"shopping","turns":[{"user":["Can I return this?","What's your return policy?"],"assistant":["Yes, with the receipt within thirty days.","You can return it within two weeks."]}]}
+{"id":"rest_01","topic":"restaurant","turns":[{"user":["A table for two, please.","Do you have a table for four?"],"assistant":["Of course. Follow me, please.","Yes, right this way."]}]}
+{"id":"rest_02","topic":"restaurant","turns":[{"user":["Can I see the menu?","What do you recommend?"],"assistant":["Here's the menu. The pasta is excellent.","I'd suggest the grilled chicken."]}]}
+{"id":"rest_03","topic":"restaurant","turns":[{"user":["I'd like a coffee, please.","Can I have a glass of water?"],"assistant":["Certainly. Anything else?","Of course, coming right up."]}]}
+{"id":"rest_04","topic":"restaurant","turns":[{"user":["The bill, please.","Can we get the check?"],"assistant":["Here you are. Thank you.","Of course. I'll bring it right away."]}]}
+{"id":"rest_05","topic":"restaurant","turns":[{"user":["Is this dish spicy?","Does it have meat?"],"assistant":["It's mildly spicy.","No, it's vegetarian."]}]}
+{"id":"rest_06","topic":"restaurant","turns":[{"user":["I have a food allergy.","I can't eat nuts."],"assistant":["Thanks for telling me. I'll let the kitchen know.","Understood. We'll make sure your meal is safe."]}]}
+{"id":"rest_07","topic":"restaurant","turns":[{"user":["Can I pay separately?","Can we split the bill?"],"assistant":["Of course. I'll bring two checks.","Sure, no problem."]}]}
+{"id":"rest_08","topic":"restaurant","turns":[{"user":["This is delicious!","The food was great."],"assistant":["I'm glad you enjoyed it!","Wonderful! I'll tell the chef."]}]}
+{"id":"groc_01","topic":"groceries","turns":[{"user":["Where can I find milk?","Where is the bread?"],"assistant":["Milk is in aisle three.","The bread is at the back of the store."]}]}
+{"id":"groc_02","topic":"groceries","turns":[{"user":["Do you have fresh eggs?","Are these apples local?"],"assistant":["Yes, we have fresh eggs today.","Yes, they're from a farm nearby."]}]}
+{"id":"groc_03","topic":"groceries","turns":[{"user":["Can I get half a kilo of cheese?","I'd like a dozen eggs."],"assistant":["Sure, anything else?","Here you go. Will that be all?"]}]}
+{"id":"groc_04","topic":"groceries","turns":[{"user":["Is this on sale?","Do you have a cheaper option?"],"assistant":["Yes, it's on sale this week.","We have a store brand that costs less."]}]}
+{"id":"groc_05","topic":"groceries","turns":[{"user":["Where is the checkout?","Can I pay here?"],"assistant":["The checkout is by the front door.","Yes, you can pay right here."]}]}
+{"id":"cook_01","topic":"cooking","turns":[{"user":["How do I cook rice?","How long should I boil the pasta?"],"assistant":["Boil one cup of rice in two cups of water.","Cook the pasta for about ten minutes."]}]}
+{"id":"cook_02","topic":"cooking","turns":[{"user":["What can I make with eggs?","Any idea for dinner tonight?"],"assistant":["You could make an omelette.","How about a simple pasta with vegetables?"]}]}
+{"id":"cook_03","topic":"cooking","turns":[{"user":["This tastes a bit bland.","It needs more salt."],"assistant":["Add a little salt and pepper.","Try a squeeze of lemon."]}]}
+{"id":"cook_04","topic":"cooking","turns":[{"user":["Can you share the recipe?","How did you make this?"],"assistant":["Sure, it's easy. I'll send you the recipe.","It's just garlic, olive oil and tomatoes."]}]}
+{"id":"cook_05","topic":"cooking","turns":[{"user":["I burned the toast.","The sauce is too thick."],"assistant":["No worries, it happens. Try again.","Add a little water and stir."]}]}
+{"id":"hotel_01","topic":"hotel","turns":[{"user":["I have a reservation.","I'd like to check in."],"assistant":["Welcome! What name is the reservation under?","Of course. May I see your ID, please?"]}]}
+{"id":"hotel_02","topic":"hotel","turns":[{"user":["What time is check-out?","Is breakfast included?"],"assistant":["Check-out is at eleven in the morning.","Yes, breakfast is included."]}]}
+{"id":"hotel_03","topic":"hotel","turns":[{"user":["Is there Wi-Fi?","What's the Wi-Fi password?"],"assistant":["Yes, the password is on your key card.","Of course. The network is called Guest and the password is welcome."]}]}
+{"id":"hotel_04","topic":"hotel","turns":[{"user":["The air conditioning isn't working.","There's no hot water."],"assistant":["I'm sorry about that. I'll send someone up.","I'll have maintenance take a look right away."]}]}
+{"id":"hotel_05","topic":"hotel","turns":[{"user":["Can I leave my bags here?","Could I have a late check-out?"],"assistant":["Yes, we can store your bags at the desk.","Let me check if late check-out is available."]}]}
+{"id":"air_01","topic":"airport","turns":[{"user":["Where is the check-in counter?","Which gate is my flight?"],"assistant":["Check-in is on the left, near the entrance.","Your flight leaves from gate twelve."]}]}
+{"id":"air_02","topic":"airport","turns":[{"user":["Is the flight delayed?","Has the flight been cancelled?"],"assistant":["Yes, it's delayed by an hour.","No, it's on time."]}]}
+{"id":"air_03","topic":"airport","turns":[{"user":["Can I take this as hand luggage?","Is this bag too big?"],"assistant":["Yes, that's fine as hand luggage.","It might be too big. You may need to check it."]}]}
+{"id":"air_04","topic":"airport","turns":[{"user":["Where is baggage claim?","I can't find my suitcase."],"assistant":["Baggage claim is downstairs.","I'm sorry. Please go to the lost luggage desk."]}]}
+{"id":"air_05","topic":"airport","turns":[{"user":["Do I need to show my passport?","Where is security?"],"assistant":["Yes, please have your passport ready.","Security is straight ahead."]}]}
+{"id":"health_01","topic":"health","turns":[{"user":["I don't feel well.","I have a headache."],"assistant":["I'm sorry to hear that. You should rest.","Drink some water and take it easy."]}]}
+{"id":"health_02","topic":"health","turns":[{"user":["I have a fever.","My throat hurts."],"assistant":["You should see a doctor.","Try warm tea with honey."]}]}
+{"id":"health_03","topic":"health","turns":[{"user":["I need to see a doctor.","Where is the nearest clinic?"],"assistant":["There's a clinic two streets away.","I can help you find one. Do you need urgent care?"]}]}
+{"id":"health_04","topic":"health","turns":[{"user":["I think I have a cold.","I've been coughing all night."],"assistant":["Rest and drink plenty of fluids.","If it lasts more than a week, see a doctor."]}]}
+{"id":"health_05","topic":"health","turns":[{"user":["I hurt my ankle.","I cut my finger."],"assistant":["Keep it elevated and put ice on it.","Clean the cut and put a bandage on it."]}]}
+{"id":"health_06","topic":"health","turns":[{"user":["I'm allergic to penicillin.","I take medication daily."],"assistant":["Thanks for telling me. I'll note that.","Good to know. Please mention it to the doctor."]}]}
+{"id":"health_07","topic":"health","turns":[{"user":["How often should I take this?","Is this medicine safe with food?"],"assistant":["Take it twice a day after meals.","Yes, you can take it with food."]}]}
+{"id":"pharm_01","topic":"pharmacy","turns":[{"user":["Do you have anything for a headache?","I need something for a cough."],"assistant":["Yes, this works well for headaches.","This syrup is good for a cough."]}]}
+{"id":"pharm_02","topic":"pharmacy","turns":[{"user":["Do I need a prescription?","Can I buy this without a prescription?"],"assistant":["Yes, you need a prescription for that.","No, this one is over the counter."]}]}
+{"id":"pharm_03","topic":"pharmacy","turns":[{"user":["How many times a day?","What's the dose?"],"assistant":["Take one tablet every eight hours.","Two pills a day, with water."]}]}
+{"id":"pharm_04","topic":"pharmacy","turns":[{"user":["Are there side effects?","Can I drive after taking this?"],"assistant":["It may make you sleepy, so avoid driving.","Some people feel drowsy. Be careful."]}]}
+{"id":"work_01","topic":"work","turns":[{"user":["Can we have a meeting tomorrow?","Are you free for a quick call?"],"assistant":["Sure, what time works for you?","Yes, I'm free after two."]}]}
+{"id":"work_02","topic":"work","turns":[{"user":["I'll send you the report.","I'll finish it by Friday."],"assistant":["Great, thanks. I'll review it.","Perfect. Let me know if you need anything."]}]}
+{"id":"work_03","topic":"work","turns":[{"user":["Sorry, I can't make the deadline.","I need more time on this."],"assistant":["That's okay. When can you deliver it?","No problem. Let's adjust the plan."]}]}
+{"id":"work_04","topic":"work","turns":[{"user":["Can you review my work?","Could you check this document?"],"assistant":["Of course. I'll take a look today.","Sure, send it over."]}]}
+{"id":"work_05","topic":"work","turns":[{"user":["I'm working from home today.","I'll be out of the office."],"assistant":["Thanks for letting me know.","Okay, I'll reach you by email."]}]}
+{"id":"work_06","topic":"work","turns":[{"user":["What's the agenda for the meeting?","When is the next team meeting?"],"assistant":["We'll go over the budget and the timeline.","It's on Thursday at ten."]}]}
+{"id":"work_07","topic":"work","turns":[{"user":["I'd like to apply for the job.","How do I apply?"],"assistant":["Great. Send your resume to the address on the website.","You can apply online or bring your resume here."]}]}
+{"id":"study_01","topic":"study","turns":[{"user":["I have an exam tomorrow.","I need to study for a test."],"assistant":["Good luck! Try to get some sleep too.","Make a short plan and focus on the key topics."]}]}
+{"id":"study_02","topic":"study","turns":[{"user":["Can you explain this exercise?","I don't understand this lesson."],"assistant":["Sure. Which part is unclear?","Let's go through it together."]}]}
+{"id":"study_03","topic":"study","turns":[{"user":["I'm learning English.","I want to improve my English."],"assistant":["That's great! Practice a little every day.","Good for you. Try watching shows with subtitles."]}]}
+{"id":"study_04","topic":"study","turns":[{"user":["What does this word mean?","How do you use this expression?"],"assistant":["It means something that is very easy.","You use it when you agree with someone."]}]}
+{"id":"study_05","topic":"study","turns":[{"user":["I failed the test.","I got a low grade."],"assistant":["Don't be too hard on yourself. Try again.","That happens. Let's see what went wrong."]}]}
+{"id":"study_06","topic":"study","turns":[{"user":["Where is the library?","What time does the library close?"],"assistant":["It's next to the main building.","It closes at nine."]}]}
+{"id":"phone_01","topic":"phone","turns":[{"user":["Hello, who is speaking?","May I ask who's calling?"],"assistant":["This is Maria from the clinic.","It's Tom, from the office."]}]}
+{"id":"phone_02","topic":"phone","turns":[{"user":["Can I speak to Mr. Brown?","Is Anna available?"],"assistant":["Please hold on a moment.","I'm sorry, she's in a meeting."]}]}
+{"id":"phone_03","topic":"phone","turns":[{"user":["Can I leave a message?","Please tell him I called."],"assistant":["Of course. What's your name and number?","Sure, I'll pass it along."]}]}
+{"id":"phone_04","topic":"phone","turns":[{"user":["The line is bad.","I can't hear you well."],"assistant":["Sorry, let me call you back.","It might be the signal. Can you hear me now?"]}]}
+{"id":"phone_05","topic":"phone","turns":[{"user":["I'd like to book an appointment.","Can I make an appointment?"],"assistant":["Of course. What day works for you?","Sure. We have openings on Tuesday."]}]}
+{"id":"phone_06","topic":"phone","turns":[{"user":["I need to cancel my appointment.","Can I change my appointment?"],"assistant":["No problem. Would you like another day?","Of course. When would you like to come?"]}]}
+{"id":"appt_01","topic":"appointments","turns":[{"user":["Are you free on Monday?","Does Tuesday work for you?"],"assistant":["Monday works for me. What time?","Tuesday morning is good."]}]}
+{"id":"appt_02","topic":"appointments","turns":[{"user":["Can we meet at three?","How about ten in the morning?"],"assistant":["Three works well. See you then.","Ten is perfect. I'll be there."]}]}
+{"id":"appt_03","topic":"appointments","turns":[{"user":["I need to reschedule.","Something came up."],"assistant":["No problem. When are you free?","That's fine. Let's find another time."]}]}
+{"id":"appt_04","topic":"appointments","turns":[{"user":["I'll be a few minutes late.","I'm on my way."],"assistant":["No worries. Take your time.","Thanks for letting me know."]}]}
+{"id":"appt_05","topic":"appointments","turns":[{"user":["Where should we meet?","Shall we meet at the cafe?"],"assistant":["The cafe on Main Street sounds good.","Let's meet at the entrance."]}]}
+{"id":"home_01","topic":"home","turns":[{"user":["Can you take out the trash?","Could you do the dishes?"],"assistant":["Sure, I'll do it now.","Okay, I'll take care of it."]}]}
+{"id":"home_02","topic":"home","turns":[{"user":["The sink is leaking.","The light bulb is broken."],"assistant":["I'll call a plumber.","I'll change the bulb this evening."]}]}
+{"id":"home_03","topic":"home","turns":[{"user":["Can I borrow a ladder?","Do you have a screwdriver?"],"assistant":["Sure, it's in the garage.","Yes, I'll bring it over."]}]}
+{"id":"home_04","topic":"home","turns":[{"user":["The neighbors are noisy.","The music is too loud."],"assistant":["Maybe talk to them politely.","I'll ask them to turn it down."]}]}
+{"id":"home_05","topic":"home","turns":[{"user":["I'm moving next month.","I need help moving."],"assistant":["That's exciting! Let me know if you need help.","I can help on the weekend."]}]}
+{"id":"hobby_01","topic":"hobbies","turns":[{"user":["What do you do in your free time?","Any hobbies?"],"assistant":["I like reading and hiking.","I play guitar and cook."]}]}
+{"id":"hobby_02","topic":"hobbies","turns":[{"user":["I like photography.","I enjoy drawing."],"assistant":["That's great! Do you have a favorite subject?","Nice! How long have you been doing it?"]}]}
+{"id":"hobby_03","topic":"hobbies","turns":[{"user":["Do you like to travel?","Have you been abroad?"],"assistant":["Yes, I love traveling. I went to Italy last year.","I have. I visited Japan two years ago."]}]}
+{"id":"hobby_04","topic":"hobbies","turns":[{"user":["What kind of books do you read?","Do you read much?"],"assistant":["I like mysteries and history.","I read a lot, mostly novels."]}]}
+{"id":"hobby_05","topic":"hobbies","turns":[{"user":["Let's watch a movie.","Any movie recommendations?"],"assistant":["Sure! What genre do you like?","I'd suggest a comedy tonight."]}]}
+{"id":"hobby_06","topic":"hobbies","turns":[{"user":["Do you play any sports?","Are you on a team?"],"assistant":["I play tennis on weekends.","I used to play soccer."]}]}
+{"id":"sport_01","topic":"sports","turns":[{"user":["Did you watch the game?","Who won the match?"],"assistant":["Yes! It was a great game.","Our team won two to one."]}]}
+{"id":"sport_02","topic":"sports","turns":[{"user":["Do you want to go for a run?","Let's go to the gym."],"assistant":["Sure, what time?","Good idea. I'll meet you there at six."]}]}
+{"id":"sport_03","topic":"sports","turns":[{"user":["I'm learning to swim.","I want to start running."],"assistant":["That's great. Start slowly and be consistent.","Good for you! A little every day helps."]}]}
+{"id":"sport_04","topic":"sports","turns":[{"user":["My legs are sore.","I pulled a muscle."],"assistant":["Rest and stretch gently.","Take a few days off and see how it feels."]}]}
+{"id":"sport_05","topic":"sports","turns":[{"user":["Where is the stadium?","Is the pool open today?"],"assistant":["It's on the north side of town.","Yes, it's open until eight."]}]}
+{"id":"music_01","topic":"music","turns":[{"user":["What kind of music do you like?","Who's your favorite singer?"],"assistant":["I like jazz and rock.","I'm a big fan of Adele."]}]}
+{"id":"music_02","topic":"music","turns":[{"user":["Can you play an instrument?","Do you sing?"],"assistant":["I play a little guitar.","Not really, but I love karaoke."]}]}
+{"id":"music_03","topic":"music","turns":[{"user":["Let's go to a concert.","Do you want to see a show?"],"assistant":["I'd love that. When is it?","Sounds fun! Let's get tickets."]}]}
+{"id":"music_04","topic":"music","turns":[{"user":["Can you turn the music down?","The volume is too high."],"assistant":["Sure, sorry about that.","Of course. Is this better?"]}]}
+{"id":"feel_01","topic":"feelings","turns":[{"user":["I'm happy today.","I'm in a good mood."],"assistant":["That's wonderful to hear!","Glad to hear it. What's the good news?"]}]}
+{"id":"feel_02","topic":"feelings","turns":[{"user":["I'm sad.","I'm feeling down."],"assistant":["I'm sorry. Do you want to talk about it?","That's tough. I'm here if you need me."]}]}
+{"id":"feel_03","topic":"feelings","turns":[{"user":["I'm nervous.","I'm worried about tomorrow."],"assistant":["That's understandable. Take a deep breath.","It's normal to feel that way. You'll do fine."]}]}
+{"id":"feel_04","topic":"feelings","turns":[{"user":["I'm excited!","I can't wait!"],"assistant":["That's great! Tell me more.","I can tell! What are you looking forward to?"]}]}
+{"id":"feel_05","topic":"feelings","turns":[{"user":["I'm tired.","I'm exhausted."],"assistant":["You should get some rest.","Take it easy tonight."]}]}
+{"id":"feel_06","topic":"feelings","turns":[{"user":["I'm angry about it.","That makes me upset."],"assistant":["I understand. Want to tell me what happened?","That sounds frustrating. Let's talk about it."]}]}
+{"id":"opin_01","topic":"opinions","turns":[{"user":["What do you think of this?","Do you like it?"],"assistant":["I think it's a good idea.","I like it, but it could be better."]}]}
+{"id":"opin_02","topic":"opinions","turns":[{"user":["Do you agree?","What's your opinion?"],"assistant":["I agree with you.","I see it a bit differently, but I understand."]}]}
+{"id":"opin_03","topic":"opinions","turns":[{"user":["Which one is better?","What should I choose?"],"assistant":["I'd go with the first one.","It depends on what you need most."]}]}
+{"id":"opin_04","topic":"opinions","turns":[{"user":["That's a good point.","You're right."],"assistant":["Thanks. I'm glad we agree.","I appreciate that."]}]}
+{"id":"opin_05","topic":"opinions","turns":[{"user":["I don't think so.","I'm not sure about that."],"assistant":["That's fair. Tell me why.","No problem. What would you suggest?"]}]}
+{"id":"congr_01","topic":"congratulations","turns":[{"user":["I got the job!","I passed the exam!"],"assistant":["Congratulations! That's great news.","Wonderful! You worked hard for it."]}]}
+{"id":"congr_02","topic":"congratulations","turns":[{"user":["It's my birthday today.","I just got married."],"assistant":["Happy birthday! Have a great day.","Congratulations! Wishing you both the best."]}]}
+{"id":"congr_03","topic":"congratulations","turns":[{"user":["We won the match!","I finished the project."],"assistant":["Well done! That's excellent.","Great job! You should be proud."]}]}
+{"id":"congr_04","topic":"congratulations","turns":[{"user":["She had a baby.","They bought a house."],"assistant":["That's wonderful news! Please congratulate her for me.","How exciting! That's a big step."]}]}
+{"id":"symp_01","topic":"sympathy","turns":[{"user":["My dog passed away.","I lost my job."],"assistant":["I'm so sorry to hear that.","That's really hard. I'm here for you."]}]}
+{"id":"symp_02","topic":"sympathy","turns":[{"user":["I'm going through a hard time.","Things are difficult right now."],"assistant":["I'm sorry. Do you want to talk?","That sounds tough. Take care of yourself."]}]}
+{"id":"symp_03","topic":"sympathy","turns":[{"user":["I have to go to the hospital.","My mother is sick."],"assistant":["I hope everything is okay.","I'm sorry to hear that. Sending good thoughts."]}]}
+{"id":"symp_04","topic":"sympathy","turns":[{"user":["Thank you for listening.","Thanks for being there."],"assistant":["Anytime. That's what friends are for.","Of course. I'm glad I could help."]}]}
+{"id":"inv_01","topic":"invitations","turns":[{"user":["Do you want to come over?","Would you like to join us?"],"assistant":["I'd love to! What time?","Sure, that sounds nice."]}]}
+{"id":"inv_02","topic":"invitations","turns":[{"user":["We're having a party on Saturday.","Come to dinner at our place."],"assistant":["Thanks for the invite! I'll be there.","That sounds great. Can I bring something?"]}]}
+{"id":"inv_03","topic":"invitations","turns":[{"user":["Sorry, I can't come.","I'm busy that day."],"assistant":["No problem. Maybe next time.","That's okay. Thanks for letting me know."]}]}
+{"id":"inv_04","topic":"invitations","turns":[{"user":["What should I bring?","Do I need to bring anything?"],"assistant":["Just yourself! But dessert is welcome.","Maybe a bottle of wine."]}]}
+{"id":"inv_05","topic":"invitations","turns":[{"user":["Where is the party?","How do I get to your place?"],"assistant":["At my apartment. I'll send you the address.","It's near the park. I'll send directions."]}]}
+{"id":"inv_06","topic":"invitations","turns":[{"user":["Thanks for having me.","I had a great time."],"assistant":["Thank you for coming! It was fun.","I'm glad you enjoyed it. Come back soon."]}]}
+{"id":"plan_01","topic":"plans","turns":[{"user":["What are you doing later?","Are you free tonight?"],"assistant":["I'm free after seven.","I don't have plans. What did you have in mind?"]}]}
+{"id":"plan_02","topic":"plans","turns":[{"user":["Let's meet tomorrow.","Shall we have lunch?"],"assistant":["Sounds good. Where?","Sure, around noon works for me."]}]}
+{"id":"plan_03","topic":"plans","turns":[{"user":["I'm going to the beach.","We're going hiking."],"assistant":["That sounds relaxing. Have fun!","Nice! Let me know how it goes."]}]}
+{"id":"plan_04","topic":"plans","turns":[{"user":["I have no plans.","I'm staying home."],"assistant":["Sometimes that's the best.","Sounds cozy. Enjoy your day."]}]}
+{"id":"plan_05","topic":"plans","turns":[{"user":["Let's cancel for today.","Can we do it another day?"],"assistant":["Sure, no problem.","Of course. Let me know when works."]}]}
+{"id":"money_01","topic":"money","turns":[{"user":["How much does it cost?","What's the price?"],"assistant":["It costs ten dollars.","It's twenty dollars in total."]}]}
+{"id":"money_02","topic":"money","turns":[{"user":["That's too expensive.","Do you have something cheaper?"],"assistant":["I understand. We have a cheaper option.","Let me show you something less expensive."]}]}
+{"id":"money_03","topic":"money","turns":[{"user":["Can I pay in cash?","Do you take dollars?"],"assistant":["Yes, cash is fine.","We accept dollars and local currency."]}]}
+{"id":"money_04","topic":"money","turns":[{"user":["Keep the change.","Here you go."],"assistant":["Thank you very much!","Thanks! Have a great day."]}]}
+{"id":"emg_01","topic":"emergency","turns":[{"user":["Call an ambulance!","We need help now!"],"assistant":["I'm calling for help right now. Stay with me.","Okay, stay calm. Help is on the way."]}]}
+{"id":"emg_02","topic":"emergency","turns":[{"user":["There's a fire!","I smell smoke."],"assistant":["Leave the building now and call emergency services.","Get outside and stay away from the building."]}]}
+{"id":"emg_03","topic":"emergency","turns":[{"user":["I lost my wallet.","My phone was stolen."],"assistant":["Let's report it to the police.","Cancel your cards and tell the police."]}]}
+{"id":"emg_04","topic":"emergency","turns":[{"user":["Where is the police station?","I need to report a crime."],"assistant":["It's two blocks from here.","You can call the emergency number now."]}]}
+{"id":"num_01","topic":"numbers","turns":[{"user":["How many?","Give me the number."],"assistant":["There are twelve.","It's eighteen in total."]}]}
+{"id":"num_02","topic":"numbers","turns":[{"user":["Can you write that number down?","What's your phone number?"],"assistant":["Sure, it's five five five, one two three four.","I'll write it down for you."]}]}
+{"id":"num_03","topic":"numbers","turns":[{"user":["Is it thirteen or thirty?","Did you say sixteen?"],"assistant":["Thirteen. One three.","Yes, sixteen. One six."]}]}
+{"id":"foodpref_01","topic":"food_preferences","turns":[{"user":["Do you like pizza?","What's your favorite food?"],"assistant":["I love pizza!","I really like Thai food."]}]}
+{"id":"foodpref_02","topic":"food_preferences","turns":[{"user":["I'm vegetarian.","I don't eat meat."],"assistant":["Good to know. There are vegetarian options.","No problem. I'll suggest something meat-free."]}]}
+{"id":"foodpref_03","topic":"food_preferences","turns":[{"user":["I love spicy food.","I can't eat spicy food."],"assistant":["Then you should try the curry.","I'll suggest something mild."]}]}
+{"id":"foodpref_04","topic":"food_preferences","turns":[{"user":["Do you drink coffee?","Would you like some tea?"],"assistant":["Yes, I drink coffee every morning.","I'd love some tea, thanks."]}]}
+{"id":"foodpref_05","topic":"food_preferences","turns":[{"user":["What's good here?","What do you suggest?"],"assistant":["The soup is very good today.","I recommend the house salad."]}]}
+{"id":"pet_01","topic":"pets","turns":[{"user":["Do you have a pet?","Do you like dogs?"],"assistant":["Yes, I have a cat.","I love dogs. I have a small one."]}]}
+{"id":"pet_02","topic":"pets","turns":[{"user":["My dog is sick.","My cat won't eat."],"assistant":["You should take it to the vet.","Try a different food, and see a vet if it continues."]}]}
+{"id":"pet_03","topic":"pets","turns":[{"user":["Can I bring my dog?","Are pets allowed?"],"assistant":["Pets are welcome here.","I'm sorry, pets aren't allowed inside."]}]}
